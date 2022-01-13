@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/danielzhong124/spacestagram/static/css/main.56e6221f.css",
-    "main.js": "/danielzhong124/spacestagram/static/js/main.2b296b54.js",
-    "static/js/787.fa78698e.chunk.js": "/danielzhong124/spacestagram/static/js/787.fa78698e.chunk.js",
-    "index.html": "/danielzhong124/spacestagram/index.html",
-    "main.56e6221f.css.map": "/danielzhong124/spacestagram/static/css/main.56e6221f.css.map",
-    "main.2b296b54.js.map": "/danielzhong124/spacestagram/static/js/main.2b296b54.js.map",
-    "787.fa78698e.chunk.js.map": "/danielzhong124/spacestagram/static/js/787.fa78698e.chunk.js.map"
+    "main.css": "/spacestagram/static/css/main.56e6221f.css",
+    "main.js": "/spacestagram/static/js/main.dd2dc34c.js",
+    "static/js/787.fa78698e.chunk.js": "/spacestagram/static/js/787.fa78698e.chunk.js",
+    "index.html": "/spacestagram/index.html",
+    "main.56e6221f.css.map": "/spacestagram/static/css/main.56e6221f.css.map",
+    "main.dd2dc34c.js.map": "/spacestagram/static/js/main.dd2dc34c.js.map",
+    "787.fa78698e.chunk.js.map": "/spacestagram/static/js/787.fa78698e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.2b296b54.js"
+    "static/js/main.dd2dc34c.js"
   ]
 }
